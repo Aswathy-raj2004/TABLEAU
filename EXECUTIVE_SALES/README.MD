@@ -30,8 +30,8 @@ The dashboard transforms sales data into clear and actionable business insights 
 
 🛠️ Tools Used
 
--Tableau  – Dashboard & Data Visualization
--Microsoft Excel – Data Cleaning & Preparation
+ -Tableau  – Dashboard & Data Visualization
+ -Microsoft Excel – Data Cleaning & Preparation
 
 💡 Key Insights
 
